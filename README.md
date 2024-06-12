@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Luiz Eduardo</h1>
-<h3>From Brazil</h3>
+<h3>I'm a computer science student from Brazil</h3>
 
 - 🌱 I’m currently learning **Golang**
 
