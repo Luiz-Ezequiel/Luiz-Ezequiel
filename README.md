@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Luiz Eduardo</h1>
-<h3>I'm a computer science student from Brazil</h3>
+<h4>I'm a Computer Science student from Brazil, currently in the 5th semester of my degree. </h4>
+
+- 💻 My interests are mainly back-end development and machine learning
 
 - 🌱 I’m currently learning **Golang**
 
@@ -24,9 +26,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/luiz-eduardo-oliveira-ezequiel" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luiz-eduardo-oliveira-ezequiel" height="30" width="40"/> </a>
 </p>
-<div style="display: flex; justify-content: space-between;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=luiz-ezequiel&show_icons=true&theme=gruvbox&locale=en" alt="luiz-ezequiel"></p>
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-ezequiel&theme=dark" alt="luiz-ezequiel"></p>
+<div style="display: flex; justify-content: space-around;">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=luiz-ezequiel&show_icons=true&theme=gruvbox&locale=en" alt="luiz-ezequiel" width="400"></p>
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-ezequiel&theme=dark" alt="luiz-ezequiel" width="400"></p>
 </div>
 
 
